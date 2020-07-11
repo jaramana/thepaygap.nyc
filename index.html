@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<link rel="shortcut icon" type="image/ico" href="assets/favicon.ico">
+	<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, user-scalable=no">
+	<title>DataTables example - Ajax data source (objects)</title>
+	<link rel="stylesheet" type="text/css" href="css/jquery.dataTables.css">
+	<link rel="stylesheet" type="text/css" href="resources/syntax/shCore.css">
+	<link rel="stylesheet" type="text/css" href="resources/demo.css">
+	<style type="text/css" class="init">
+
+	</style>
+	<script type="text/javascript" language="javascript" src="https://code.jquery.com/jquery-3.3.1.js"></script>
+	<script type="text/javascript" language="javascript" src="js/jquery.dataTables.js"></script>
+	<script type="text/javascript" language="javascript" src="resources/syntax/shCore.js"></script>
+	<script type="text/javascript" language="javascript" src="resources/demo.js"></script>
+
+
+	<script type="text/javascript" language="javascript" class="init">
+	
+$(document).ready(function() {
+    $('#example').DataTable( {
+		"paging": false,
+		"ajax": "https://raw.githubusercontent.com/jaramana/test/master/test.json",
+		"columnDefs": [{"className": "dt-center", "targets": "_all"}],
+		"columns": [
+            { "data": "Agency" },
+            { "data": "Female" },
+            { "data": "Male" },
+            { "data": "Gap" }
+        ]
+    } );
+} );
+
+
+	</script>
+</head>
+
+<body class="dt-example">
+	<div class="container">
+		<section>
+			<h2 align="center">thepaygap.nyc</h2>
+			<p style="text-align: justify"> The following table displays the average salaries of civil servants for the City of New York, seperated by Male and Female. The gender of the civil servants are assigned based on the names database from the Social Security Administration.</p>
+
+			<div class="demo-html"></div>
+<table id="example" class="display" style="width:100%">
+        <thead>
+            <tr>
+                <th>Agency</th>
+                <th>Female</th>
+                <th>Male</th>
+                <th>Gap</th>
+            </tr>
+        </thead>
+        <tfoot>
+            <tr>
+                <th>Agency</th>
+                <th>Female</th>
+                <th>Male</th>
+                <th>Gap</th>
+            </tr>
+        </tfoot>
+    </table>
+		</section>
+	<p align = "center">Produced by Ahmad Shaibani, 2020</p>
+	</div>
+	
+
+	<script src="basic_summ.js"></script>
+
+
+	
+</body>
+</html>
