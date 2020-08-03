@@ -1,0 +1,1423 @@
+[
+  {
+    "Title.Description": "12 MONTH SPECIAL EDUCATION ASST. PRINCIPAL",
+    "Average": "$138,629",
+    "Male": "$139,831",
+    "Female": "$138,150",
+    "gap": "1%"
+  },
+  {
+    "Title.Description": "ACCOUNTANT",
+    "Average": "$63,739",
+    "Male": "$64,847",
+    "Female": "$62,759",
+    "gap": "2%"
+  },
+  {
+    "Title.Description": "ADM MANAGER-NON-MGRL FROM M1/M2",
+    "Average": "$76,895",
+    "Male": "$79,763",
+    "Female": "$76,159",
+    "gap": "2%"
+  },
+  {
+    "Title.Description": "ADMIN COMMUNITY RELATIONS SPECIALIST",
+    "Average": "$85,743",
+    "Male": "$88,891",
+    "Female": "$84,008",
+    "gap": "3%"
+  },
+  {
+    "Title.Description": "ADMINISTRATIVE ACCOUNTANT",
+    "Average": "$115,771",
+    "Male": "$120,038",
+    "Female": "$112,402",
+    "gap": "3%"
+  },
+  {
+    "Title.Description": "ADMINISTRATIVE BUSINESS PROMOTION COORDINATOR",
+    "Average": "$111,006",
+    "Male": "$112,345",
+    "Female": "$110,165",
+    "gap": "1%"
+  },
+  {
+    "Title.Description": "ADMINISTRATIVE CITY PLANNER",
+    "Average": "$117,959",
+    "Male": "$124,432",
+    "Female": "$110,325",
+    "gap": "6%"
+  },
+  {
+    "Title.Description": "ADMINISTRATIVE CONTRACT SPECIALIST",
+    "Average": "$85,572",
+    "Male": "$84,825",
+    "Female": "$86,109",
+    "gap": "-1%"
+  },
+  {
+    "Title.Description": "ADMINISTRATIVE DIRECTOR OF SOCIAL SERVICES",
+    "Average": "$106,630",
+    "Male": "$107,995",
+    "Female": "$106,103",
+    "gap": "1%"
+  },
+  {
+    "Title.Description": "ADMINISTRATIVE EDUCATION ANALYST",
+    "Average": "$108,935",
+    "Male": "$110,799",
+    "Female": "$107,876",
+    "gap": "1%"
+  },
+  {
+    "Title.Description": "ADMINISTRATIVE EDUCATION OFFICER",
+    "Average": "$104,487",
+    "Male": "$105,542",
+    "Female": "$103,933",
+    "gap": "1%"
+  },
+  {
+    "Title.Description": "ADMINISTRATIVE ENGINEER",
+    "Average": "$133,692",
+    "Male": "$134,731",
+    "Female": "$128,432",
+    "gap": "2%"
+  },
+  {
+    "Title.Description": "ADMINISTRATIVE PROCUREMENT ANALYST",
+    "Average": "$89,848",
+    "Male": "$93,372",
+    "Female": "$87,638",
+    "gap": "3%"
+  },
+  {
+    "Title.Description": "ADMINISTRATIVE PROJECT MANAGER",
+    "Average": "$117,922",
+    "Male": "$118,146",
+    "Female": "$117,314",
+    "gap": "0%"
+  },
+  {
+    "Title.Description": "ADMINISTRATIVE PUBLIC INFORMATION SPECIALIST",
+    "Average": "$112,323",
+    "Male": "$116,728",
+    "Female": "$109,557",
+    "gap": "3%"
+  },
+  {
+    "Title.Description": "ADMINISTRATIVE STAFF ANALYST",
+    "Average": "$108,993",
+    "Male": "$109,745",
+    "Female": "$108,384",
+    "gap": "1%"
+  },
+  {
+    "Title.Description": "ADULT EDUCATION TEACHER",
+    "Average": "$104,126",
+    "Male": "$102,687",
+    "Female": "$104,921",
+    "gap": "-1%"
+  },
+  {
+    "Title.Description": "AGENCY ATTORNEY",
+    "Average": "$87,429",
+    "Male": "$87,273",
+    "Female": "$87,533",
+    "gap": "0%"
+  },
+  {
+    "Title.Description": "ANNUAL ED PARA",
+    "Average": "$37,565",
+    "Male": "$36,757",
+    "Female": "$37,752",
+    "gap": "-1%"
+  },
+  {
+    "Title.Description": "APPRENTICE",
+    "Average": "$50,653",
+    "Male": "$47,782",
+    "Female": "$59,872",
+    "gap": "-11%"
+  },
+  {
+    "Title.Description": "APPRENTICE INSPECTOR",
+    "Average": "$37,775",
+    "Male": "$37,722",
+    "Female": "$37,954",
+    "gap": "0%"
+  },
+  {
+    "Title.Description": "ASSISTANT CITY HIGHWAY REPAIRER",
+    "Average": "$52,999",
+    "Male": "$52,999",
+    "Female": "$52,999",
+    "gap": "0%"
+  },
+  {
+    "Title.Description": "ASSISTANT CIVIL ENGINEER",
+    "Average": "$68,930",
+    "Male": "$68,526",
+    "Female": "$69,829",
+    "gap": "-1%"
+  },
+  {
+    "Title.Description": "ASSISTANT CORPORATION COUNSEL",
+    "Average": "$107,611",
+    "Male": "$105,828",
+    "Female": "$109,048",
+    "gap": "-1%"
+  },
+  {
+    "Title.Description": "ASSISTANT DISTRICT ATTORNEY",
+    "Average": "$101,056",
+    "Male": "$101,656",
+    "Female": "$100,508",
+    "gap": "1%"
+  },
+  {
+    "Title.Description": "ASSISTANT HOUSING MANAGER",
+    "Average": "$71,780",
+    "Male": "$72,521",
+    "Female": "$71,553",
+    "gap": "1%"
+  },
+  {
+    "Title.Description": "ASSISTANT PLAN EXAMINER",
+    "Average": "$70,663",
+    "Male": "$71,016",
+    "Female": "$70,152",
+    "gap": "1%"
+  },
+  {
+    "Title.Description": "ASSISTANT PRINCIPAL",
+    "Average": "$129,342",
+    "Male": "$131,277",
+    "Female": "$128,420",
+    "gap": "1%"
+  },
+  {
+    "Title.Description": "ASSISTANT PROFESSOR",
+    "Average": "$79,054",
+    "Male": "$78,651",
+    "Female": "$79,392",
+    "gap": "0%"
+  },
+  {
+    "Title.Description": "ASSISTANT RESIDENT BUILDING SUPT",
+    "Average": "$68,602",
+    "Male": "$68,771",
+    "Female": "$68,005",
+    "gap": "1%"
+  },
+  {
+    "Title.Description": "ASSISTANT SUPERINTENDENT",
+    "Average": "$165,591",
+    "Male": "$165,997",
+    "Female": "$165,406",
+    "gap": "0%"
+  },
+  {
+    "Title.Description": "ASSISTANT TO HEO",
+    "Average": "$55,336",
+    "Male": "$55,610",
+    "Female": "$55,246",
+    "gap": "0%"
+  },
+  {
+    "Title.Description": "ASSOCIATE CHEMIST",
+    "Average": "$72,748",
+    "Male": "$73,593",
+    "Female": "$71,660",
+    "gap": "1%"
+  },
+  {
+    "Title.Description": "ASSOCIATE FIRE PROTECTION INSPECTOR",
+    "Average": "$66,987",
+    "Male": "$67,009",
+    "Female": "$66,038",
+    "gap": "1%"
+  },
+  {
+    "Title.Description": "ASSOCIATE FRAUD INVESTIGATOR",
+    "Average": "$70,061",
+    "Male": "$69,896",
+    "Female": "$70,200",
+    "gap": "0%"
+  },
+  {
+    "Title.Description": "ASSOCIATE INSPECTOR",
+    "Average": "$76,457",
+    "Male": "$76,764",
+    "Female": "$72,383",
+    "gap": "3%"
+  },
+  {
+    "Title.Description": "ASSOCIATE JOB OPPORTUNITY SPECIALIST",
+    "Average": "$62,613",
+    "Male": "$63,173",
+    "Female": "$62,465",
+    "gap": "1%"
+  },
+  {
+    "Title.Description": "ASSOCIATE PARK SERVICE WORKER",
+    "Average": "$50,891",
+    "Male": "$50,946",
+    "Female": "$50,559",
+    "gap": "0%"
+  },
+  {
+    "Title.Description": "ASSOCIATE PROFESSOR",
+    "Average": "$94,727",
+    "Male": "$95,584",
+    "Female": "$94,131",
+    "gap": "1%"
+  },
+  {
+    "Title.Description": "ASSOCIATE PROJECT MANAGER",
+    "Average": "$88,201",
+    "Male": "$88,245",
+    "Female": "$88,017",
+    "gap": "0%"
+  },
+  {
+    "Title.Description": "ASSOCIATE PUBLIC HEALTH SANITARIAN",
+    "Average": "$74,982",
+    "Male": "$74,471",
+    "Female": "$75,468",
+    "gap": "-1%"
+  },
+  {
+    "Title.Description": "ASSOCIATE RETIREMENT BENEFITS EXAMINER",
+    "Average": "$62,364",
+    "Male": "$63,233",
+    "Female": "$61,739",
+    "gap": "1%"
+  },
+  {
+    "Title.Description": "ASSOCIATE STAFF ANALYST",
+    "Average": "$81,138",
+    "Male": "$81,022",
+    "Female": "$81,229",
+    "gap": "0%"
+  },
+  {
+    "Title.Description": "ASSOCIATE TRAFFIC ENFORCEMENT AGENT",
+    "Average": "$49,639",
+    "Male": "$49,937",
+    "Female": "$49,407",
+    "gap": "1%"
+  },
+  {
+    "Title.Description": "AUTOMOTIVE SERVICE WORKER",
+    "Average": "$40,057",
+    "Male": "$40,197",
+    "Female": "$36,116",
+    "gap": "5%"
+  },
+  {
+    "Title.Description": "BATTALION CHIEF",
+    "Average": "$155,810",
+    "Male": "$155,807",
+    "Female": "$156,329",
+    "gap": "0%"
+  },
+  {
+    "Title.Description": "BOOKKEEPER",
+    "Average": "$50,166",
+    "Male": "$49,229",
+    "Female": "$50,656",
+    "gap": "-1%"
+  },
+  {
+    "Title.Description": "BUDGET ANALYST",
+    "Average": "$89,380",
+    "Male": "$90,247",
+    "Female": "$88,373",
+    "gap": "1%"
+  },
+  {
+    "Title.Description": "BUSINESS PROMOTION COORDINATOR",
+    "Average": "$68,724",
+    "Male": "$68,549",
+    "Female": "$68,878",
+    "gap": "0%"
+  },
+  {
+    "Title.Description": "CALL CENTER REPRESENTATIVE",
+    "Average": "$36,520",
+    "Male": "$36,889",
+    "Female": "$36,397",
+    "gap": "1%"
+  },
+  {
+    "Title.Description": "CAMPUS PEACE OFFICER",
+    "Average": "$41,470",
+    "Male": "$41,565",
+    "Female": "$41,197",
+    "gap": "0%"
+  },
+  {
+    "Title.Description": "CAMPUS SECURITY ASSISTANT",
+    "Average": "$32,748",
+    "Male": "$32,910",
+    "Female": "$32,413",
+    "gap": "1%"
+  },
+  {
+    "Title.Description": "CAPTAIN",
+    "Average": "$116,300",
+    "Male": "$121,655",
+    "Female": "$102,131",
+    "gap": "9%"
+  },
+  {
+    "Title.Description": "CAPTAIN D/A DEPUTY INSPECTOR",
+    "Average": "$171,949",
+    "Male": "$171,997",
+    "Female": "$171,475",
+    "gap": "0%"
+  },
+  {
+    "Title.Description": "CAPTAIN D/A INSPECTOR",
+    "Average": "$181,010",
+    "Male": "$181,000",
+    "Female": "$181,162",
+    "gap": "0%"
+  },
+  {
+    "Title.Description": "CARETAKER",
+    "Average": "$39,932",
+    "Male": "$40,338",
+    "Female": "$39,434",
+    "gap": "1%"
+  },
+  {
+    "Title.Description": "CASEWORKER",
+    "Average": "$46,156",
+    "Male": "$46,285",
+    "Female": "$46,107",
+    "gap": "0%"
+  },
+  {
+    "Title.Description": "CERTIFIED IT ADMINISTRATOR",
+    "Average": "$107,846",
+    "Male": "$108,201",
+    "Female": "$105,761",
+    "gap": "1%"
+  },
+  {
+    "Title.Description": "CERTIFIED IT DEVELOPER",
+    "Average": "$110,436",
+    "Male": "$112,043",
+    "Female": "$106,116",
+    "gap": "3%"
+  },
+  {
+    "Title.Description": "CHILD AND FAMILY SPECIALIST",
+    "Average": "$83,243",
+    "Male": "$82,590",
+    "Female": "$83,390",
+    "gap": "0%"
+  },
+  {
+    "Title.Description": "CHILD PROTECTIVE SPECIALIST",
+    "Average": "$55,114",
+    "Male": "$54,888",
+    "Female": "$55,164",
+    "gap": "0%"
+  },
+  {
+    "Title.Description": "CHILD PROTECTIVE SPECIALIST SUPERVISOR",
+    "Average": "$79,787",
+    "Male": "$80,169",
+    "Female": "$79,687",
+    "gap": "0%"
+  },
+  {
+    "Title.Description": "CHILD WELFARE SPECIALIST",
+    "Average": "$57,996",
+    "Male": "$57,300",
+    "Female": "$58,287",
+    "gap": "-1%"
+  },
+  {
+    "Title.Description": "CHILD WELFARE SPECIALIST SUPERVISOR",
+    "Average": "$76,597",
+    "Male": "$72,799",
+    "Female": "$77,847",
+    "gap": "-3%"
+  },
+  {
+    "Title.Description": "CITY ASSESSOR",
+    "Average": "$78,938",
+    "Male": "$78,321",
+    "Female": "$80,391",
+    "gap": "-1%"
+  },
+  {
+    "Title.Description": "CITY ATTENDANT",
+    "Average": "$36,027",
+    "Male": "$35,809",
+    "Female": "$36,728",
+    "gap": "-1%"
+  },
+  {
+    "Title.Description": "CITY CUSTODIAL ASSISTANT",
+    "Average": "$35,907",
+    "Male": "$35,869",
+    "Female": "$35,952",
+    "gap": "0%"
+  },
+  {
+    "Title.Description": "CITY PARK WORKER",
+    "Average": "$41,827",
+    "Male": "$41,579",
+    "Female": "$42,483",
+    "gap": "-1%"
+  },
+  {
+    "Title.Description": "CITY PARKING EQUIPMENT SERVICE WORKER",
+    "Average": "$40,978",
+    "Male": "$41,122",
+    "Female": "$40,410",
+    "gap": "1%"
+  },
+  {
+    "Title.Description": "CITY PLANNER",
+    "Average": "$80,608",
+    "Male": "$82,653",
+    "Female": "$78,344",
+    "gap": "3%"
+  },
+  {
+    "Title.Description": "CITY RESEARCH SCIENTIST",
+    "Average": "$88,688",
+    "Male": "$89,123",
+    "Female": "$88,477",
+    "gap": "0%"
+  },
+  {
+    "Title.Description": "CITY TAX AUDITOR",
+    "Average": "$66,485",
+    "Male": "$66,703",
+    "Female": "$66,222",
+    "gap": "0%"
+  },
+  {
+    "Title.Description": "CIVIL ENGINEER",
+    "Average": "$96,126",
+    "Male": "$96,709",
+    "Female": "$92,399",
+    "gap": "2%"
+  },
+  {
+    "Title.Description": "CLAIM SPECIALIST",
+    "Average": "$52,206",
+    "Male": "$52,874",
+    "Female": "$51,854",
+    "gap": "1%"
+  },
+  {
+    "Title.Description": "CLERICAL ASSOCIATE",
+    "Average": "$44,178",
+    "Male": "$43,321",
+    "Female": "$44,380",
+    "gap": "-1%"
+  },
+  {
+    "Title.Description": "CLIMBER & PRUNER",
+    "Average": "$65,982",
+    "Male": "$66,050",
+    "Female": "$64,636",
+    "gap": "1%"
+  },
+  {
+    "Title.Description": "COMMUNITY ASSISTANT",
+    "Average": "$36,983",
+    "Male": "$36,961",
+    "Female": "$37,003",
+    "gap": "0%"
+  },
+  {
+    "Title.Description": "COMMUNITY ASSOCIATE",
+    "Average": "$47,131",
+    "Male": "$47,114",
+    "Female": "$47,138",
+    "gap": "0%"
+  },
+  {
+    "Title.Description": "COMMUNITY COORDINATOR",
+    "Average": "$65,810",
+    "Male": "$66,459",
+    "Female": "$65,419",
+    "gap": "1%"
+  },
+  {
+    "Title.Description": "COMPUTER ASSOCIATE",
+    "Average": "$73,878",
+    "Male": "$74,320",
+    "Female": "$72,937",
+    "gap": "1%"
+  },
+  {
+    "Title.Description": "COMPUTER SPECIALIST",
+    "Average": "$102,938",
+    "Male": "$103,467",
+    "Female": "$101,777",
+    "gap": "1%"
+  },
+  {
+    "Title.Description": "COMPUTER SYSTEMS MANAGER",
+    "Average": "$132,138",
+    "Male": "$134,116",
+    "Female": "$126,495",
+    "gap": "3%"
+  },
+  {
+    "Title.Description": "CONFIDENTIAL INVESTIGATOR",
+    "Average": "$66,103",
+    "Male": "$67,747",
+    "Female": "$63,924",
+    "gap": "3%"
+  },
+  {
+    "Title.Description": "CONSTRUCTION PROJECT MANAGER",
+    "Average": "$80,599",
+    "Male": "$80,994",
+    "Female": "$77,822",
+    "gap": "2%"
+  },
+  {
+    "Title.Description": "COOK",
+    "Average": "$38,080",
+    "Male": "$37,987",
+    "Female": "$38,230",
+    "gap": "0%"
+  },
+  {
+    "Title.Description": "CORRECTION OFFICER",
+    "Average": "$68,113",
+    "Male": "$67,016",
+    "Female": "$69,846",
+    "gap": "-2%"
+  },
+  {
+    "Title.Description": "CRIMINALIST",
+    "Average": "$72,316",
+    "Male": "$71,918",
+    "Female": "$72,488",
+    "gap": "0%"
+  },
+  {
+    "Title.Description": "CUNY CUSTODIAL ASSISTANT",
+    "Average": "$32,875",
+    "Male": "$32,809",
+    "Female": "$32,991",
+    "gap": "0%"
+  },
+  {
+    "Title.Description": "CUNY OFFICE ASSISTANT",
+    "Average": "$36,966",
+    "Male": "$35,374",
+    "Female": "$37,242",
+    "gap": "-3%"
+  },
+  {
+    "Title.Description": "CUSTODIAN",
+    "Average": "$41,103",
+    "Male": "$40,967",
+    "Female": "$41,467",
+    "gap": "-1%"
+  },
+  {
+    "Title.Description": "CUSTOMER INFORMATION REPRESENTATIVE MA L 1549",
+    "Average": "$52,207",
+    "Male": "$50,967",
+    "Female": "$52,700",
+    "gap": "-2%"
+  },
+  {
+    "Title.Description": "DECKHAND",
+    "Average": "$53,439",
+    "Male": "$53,565",
+    "Female": "$51,066",
+    "gap": "2%"
+  },
+  {
+    "Title.Description": "DEPUTY CITY SHERIFF - NON-SPVR",
+    "Average": "$67,149",
+    "Male": "$68,011",
+    "Female": "$62,745",
+    "gap": "4%"
+  },
+  {
+    "Title.Description": "DIRECTOR OF FIELD OPERATIONS",
+    "Average": "$104,730",
+    "Male": "$106,799",
+    "Female": "$104,264",
+    "gap": "1%"
+  },
+  {
+    "Title.Description": "EDUCATION OFFICER",
+    "Average": "$79,199",
+    "Male": "$78,467",
+    "Female": "$79,540",
+    "gap": "-1%"
+  },
+  {
+    "Title.Description": "EDUCATIONAL ADMINISTRATOR CSA",
+    "Average": "$133,189",
+    "Male": "$134,982",
+    "Female": "$132,443",
+    "gap": "1%"
+  },
+  {
+    "Title.Description": "ELIGIBILITY SPECIALIST",
+    "Average": "$41,895",
+    "Male": "$41,840",
+    "Female": "$41,908",
+    "gap": "0%"
+  },
+  {
+    "Title.Description": "EMERGENCY MEDICAL SPECIALIST-EMT",
+    "Average": "$43,420",
+    "Male": "$42,997",
+    "Female": "$44,535",
+    "gap": "-2%"
+  },
+  {
+    "Title.Description": "EMERGENCY MEDICAL SPECIALIST-PARAMEDIC",
+    "Average": "$61,601",
+    "Male": "$61,868",
+    "Female": "$60,835",
+    "gap": "1%"
+  },
+  {
+    "Title.Description": "EMERGENCY PREPAREDNESS SPECIALIST",
+    "Average": "$69,232",
+    "Male": "$68,738",
+    "Female": "$69,738",
+    "gap": "-1%"
+  },
+  {
+    "Title.Description": "ENVIRONMENTAL POLICE OFFICER",
+    "Average": "$62,464",
+    "Male": "$62,898",
+    "Female": "$59,518",
+    "gap": "3%"
+  },
+  {
+    "Title.Description": "EVIDENCE AND PROPERTY CONTROL SPECIALIST",
+    "Average": "$55,948",
+    "Male": "$56,009",
+    "Female": "$55,875",
+    "gap": "0%"
+  },
+  {
+    "Title.Description": "EXECUTIVE AGENCY COUNSEL",
+    "Average": "$137,290",
+    "Male": "$138,240",
+    "Female": "$136,655",
+    "gap": "1%"
+  },
+  {
+    "Title.Description": "FIRE ALARM DISPATCHER",
+    "Average": "$53,160",
+    "Male": "$53,549",
+    "Female": "$52,314",
+    "gap": "1%"
+  },
+  {
+    "Title.Description": "FIRE MARSHAL",
+    "Average": "$95,527",
+    "Male": "$95,527",
+    "Female": "$95,527",
+    "gap": "0%"
+  },
+  {
+    "Title.Description": "FIRE PROTECTION INSPECTOR",
+    "Average": "$49,914",
+    "Male": "$50,181",
+    "Female": "$48,825",
+    "gap": "1%"
+  },
+  {
+    "Title.Description": "FIREFIGHTER",
+    "Average": "$73,878",
+    "Male": "$74,057",
+    "Female": "$66,087",
+    "gap": "6%"
+  },
+  {
+    "Title.Description": "FRAUD INVESTIGATOR",
+    "Average": "$52,706",
+    "Male": "$52,544",
+    "Female": "$52,813",
+    "gap": "0%"
+  },
+  {
+    "Title.Description": "GARDENER",
+    "Average": "$53,800",
+    "Male": "$54,129",
+    "Female": "$53,247",
+    "gap": "1%"
+  },
+  {
+    "Title.Description": "GENERAL SUPERINTENDENT",
+    "Average": "$137,040",
+    "Male": "$137,038",
+    "Female": "$137,085",
+    "gap": "0%"
+  },
+  {
+    "Title.Description": "GUIDANCE COUNSELOR",
+    "Average": "$101,963",
+    "Male": "$101,370",
+    "Female": "$102,123",
+    "gap": "0%"
+  },
+  {
+    "Title.Description": "HEALTH SERVICES MANAGER NON MANAGERIAL LEVEL I",
+    "Average": "$98,067",
+    "Male": "$98,177",
+    "Female": "$98,023",
+    "gap": "0%"
+  },
+  {
+    "Title.Description": "HEATING PLANT TECHNICIAN",
+    "Average": "$49,508",
+    "Male": "$48,882",
+    "Female": "$51,033",
+    "gap": "-2%"
+  },
+  {
+    "Title.Description": "HIGHER EDUCATION ASSISTANT",
+    "Average": "$70,877",
+    "Male": "$70,480",
+    "Female": "$71,069",
+    "gap": "0%"
+  },
+  {
+    "Title.Description": "HIGHER EDUCATION ASSOCIATE",
+    "Average": "$91,846",
+    "Male": "$92,614",
+    "Female": "$91,438",
+    "gap": "1%"
+  },
+  {
+    "Title.Description": "HIGHER EDUCATION OFFICER",
+    "Average": "$117,114",
+    "Male": "$117,319",
+    "Female": "$116,987",
+    "gap": "0%"
+  },
+  {
+    "Title.Description": "HIGHWAY TRANSPORTATION SPECIALIST",
+    "Average": "$76,207",
+    "Male": "$77,749",
+    "Female": "$73,047",
+    "gap": "3%"
+  },
+  {
+    "Title.Description": "HOUSING ASSISTANT",
+    "Average": "$55,770",
+    "Male": "$55,469",
+    "Female": "$55,863",
+    "gap": "0%"
+  },
+  {
+    "Title.Description": "HOUSING MANAGER",
+    "Average": "$88,986",
+    "Male": "$89,365",
+    "Female": "$88,823",
+    "gap": "0%"
+  },
+  {
+    "Title.Description": "INSPECTOR",
+    "Average": "$61,560",
+    "Male": "$62,147",
+    "Female": "$56,880",
+    "gap": "4%"
+  },
+  {
+    "Title.Description": "INVESTIGATOR",
+    "Average": "$55,245",
+    "Male": "$55,885",
+    "Female": "$54,699",
+    "gap": "1%"
+  },
+  {
+    "Title.Description": "JOB OPPORTUNITY SPECIALIST",
+    "Average": "$46,767",
+    "Male": "$46,502",
+    "Female": "$46,868",
+    "gap": "0%"
+  },
+  {
+    "Title.Description": "LECTURER",
+    "Average": "$72,438",
+    "Male": "$72,213",
+    "Female": "$72,652",
+    "gap": "0%"
+  },
+  {
+    "Title.Description": "LIEUTENANT",
+    "Average": "$112,074",
+    "Male": "$111,557",
+    "Female": "$119,929",
+    "gap": "-4%"
+  },
+  {
+    "Title.Description": "LIEUTENANT D/A COMMANDER OF DETECTIVE SQUAD",
+    "Average": "$134,368",
+    "Male": "$134,383",
+    "Female": "$134,037",
+    "gap": "0%"
+  },
+  {
+    "Title.Description": "LIEUTENANT D/A SPECIAL ASSIGNMENT",
+    "Average": "$134,115",
+    "Male": "$134,129",
+    "Female": "$134,056",
+    "gap": "0%"
+  },
+  {
+    "Title.Description": "MANAGEMENT AUDITOR",
+    "Average": "$74,368",
+    "Male": "$74,983",
+    "Female": "$73,815",
+    "gap": "1%"
+  },
+  {
+    "Title.Description": "MOTOR VEHICLE OPERATOR",
+    "Average": "$46,826",
+    "Male": "$46,921",
+    "Female": "$46,029",
+    "gap": "1%"
+  },
+  {
+    "Title.Description": "OCCUPATIONAL THERAPIST",
+    "Average": "$75,831",
+    "Male": "$76,321",
+    "Female": "$75,766",
+    "gap": "0%"
+  },
+  {
+    "Title.Description": "P.O. DA DET GR3",
+    "Average": "$96,934",
+    "Male": "$96,966",
+    "Female": "$96,746",
+    "gap": "0%"
+  },
+  {
+    "Title.Description": "P.O. DET SPEC",
+    "Average": "$97,050",
+    "Male": "$97,058",
+    "Female": "$97,011",
+    "gap": "0%"
+  },
+  {
+    "Title.Description": "PARALEGAL AIDE",
+    "Average": "$48,735",
+    "Male": "$48,700",
+    "Female": "$48,753",
+    "gap": "0%"
+  },
+  {
+    "Title.Description": "PARK SUPERVISOR",
+    "Average": "$74,071",
+    "Male": "$74,083",
+    "Female": "$74,038",
+    "gap": "0%"
+  },
+  {
+    "Title.Description": "PHYSICAL THERAPIST",
+    "Average": "$76,496",
+    "Male": "$76,594",
+    "Female": "$76,458",
+    "gap": "0%"
+  },
+  {
+    "Title.Description": "POLICE ADMINISTRATIVE AIDE",
+    "Average": "$41,555",
+    "Male": "$41,227",
+    "Female": "$41,582",
+    "gap": "0%"
+  },
+  {
+    "Title.Description": "POLICE COMMUNICATIONS TECHNICIAN",
+    "Average": "$45,821",
+    "Male": "$45,592",
+    "Female": "$45,863",
+    "gap": "0%"
+  },
+  {
+    "Title.Description": "POLICE OFFICER",
+    "Average": "$71,408",
+    "Male": "$71,626",
+    "Female": "$70,546",
+    "gap": "1%"
+  },
+  {
+    "Title.Description": "POLICE OFFICER D/A DETECTIVE 1ST GR",
+    "Average": "$124,975",
+    "Male": "$124,995",
+    "Female": "$124,791",
+    "gap": "0%"
+  },
+  {
+    "Title.Description": "POLICE OFFICER D/A DETECTIVE 2ND GR",
+    "Average": "$109,098",
+    "Male": "$109,099",
+    "Female": "$109,091",
+    "gap": "0%"
+  },
+  {
+    "Title.Description": "PRINCIPAL",
+    "Average": "$165,161",
+    "Male": "$166,923",
+    "Female": "$164,205",
+    "gap": "1%"
+  },
+  {
+    "Title.Description": "PRINCIPAL ADMINISTRATIVE ASSOCIATE - LEV 1 & 2 NON SUPVR",
+    "Average": "$58,472",
+    "Male": "$57,895",
+    "Female": "$58,602",
+    "gap": "-1%"
+  },
+  {
+    "Title.Description": "PROBATION OFFICER",
+    "Average": "$57,191",
+    "Male": "$56,632",
+    "Female": "$57,487",
+    "gap": "-1%"
+  },
+  {
+    "Title.Description": "PROCUREMENT ANALYST",
+    "Average": "$66,137",
+    "Male": "$69,308",
+    "Female": "$64,736",
+    "gap": "3%"
+  },
+  {
+    "Title.Description": "PROFESSOR",
+    "Average": "$116,262",
+    "Male": "$116,968",
+    "Female": "$115,487",
+    "gap": "1%"
+  },
+  {
+    "Title.Description": "PROGRAM SPECIALIST  CORRECTION",
+    "Average": "$67,042",
+    "Male": "$65,015",
+    "Female": "$67,651",
+    "gap": "-2%"
+  },
+  {
+    "Title.Description": "PROJECT MANAGER",
+    "Average": "$68,211",
+    "Male": "$67,768",
+    "Female": "$69,001",
+    "gap": "-1%"
+  },
+  {
+    "Title.Description": "PROTECTION AGENT",
+    "Average": "$66,391",
+    "Male": "$66,665",
+    "Female": "$65,150",
+    "gap": "1%"
+  },
+  {
+    "Title.Description": "PUBLIC HEALTH ADVISER",
+    "Average": "$51,439",
+    "Male": "$51,188",
+    "Female": "$51,521",
+    "gap": "0%"
+  },
+  {
+    "Title.Description": "PUBLIC HEALTH SANITARIAN",
+    "Average": "$55,341",
+    "Male": "$55,546",
+    "Female": "$55,142",
+    "gap": "0%"
+  },
+  {
+    "Title.Description": "RESEARCH PROJECTS COORD",
+    "Average": "$98,840",
+    "Male": "$101,289",
+    "Female": "$97,007",
+    "gap": "2%"
+  },
+  {
+    "Title.Description": "RESIDENT BUILDING SUPERINTENDENT",
+    "Average": "$85,247",
+    "Male": "$85,968",
+    "Female": "$83,141",
+    "gap": "2%"
+  },
+  {
+    "Title.Description": "SANITATION ENFORCEMENT AGENT",
+    "Average": "$38,949",
+    "Male": "$38,833",
+    "Female": "$39,153",
+    "gap": "0%"
+  },
+  {
+    "Title.Description": "SANITATION WORKER",
+    "Average": "$67,923",
+    "Male": "$68,167",
+    "Female": "$62,400",
+    "gap": "4%"
+  },
+  {
+    "Title.Description": "SCHOOL BUSINESS MANAGER",
+    "Average": "$79,038",
+    "Male": "$78,734",
+    "Female": "$79,197",
+    "gap": "0%"
+  },
+  {
+    "Title.Description": "SCHOOL COMPUTER TECHNOLOGY SPECIALIST",
+    "Average": "$53,902",
+    "Male": "$54,089",
+    "Female": "$52,029",
+    "gap": "2%"
+  },
+  {
+    "Title.Description": "SCHOOL FOOD SERVICE MANAGER",
+    "Average": "$51,792",
+    "Male": "$51,713",
+    "Female": "$51,812",
+    "gap": "0%"
+  },
+  {
+    "Title.Description": "SCHOOL PSYCHOLGIST",
+    "Average": "$102,214",
+    "Male": "$104,918",
+    "Female": "$101,564",
+    "gap": "2%"
+  },
+  {
+    "Title.Description": "SCHOOL SAFETY AGENT",
+    "Average": "$42,766",
+    "Male": "$42,306",
+    "Female": "$42,986",
+    "gap": "-1%"
+  },
+  {
+    "Title.Description": "SCHOOL SECRETARY",
+    "Average": "$64,188",
+    "Male": "$59,219",
+    "Female": "$64,289",
+    "gap": "-4%"
+  },
+  {
+    "Title.Description": "SCHOOL SECRETARY-REG SUB",
+    "Average": "$44,548",
+    "Male": "$45,736",
+    "Female": "$44,490",
+    "gap": "1%"
+  },
+  {
+    "Title.Description": "SCHOOL SOCIAL WORKER",
+    "Average": "$102,419",
+    "Male": "$102,949",
+    "Female": "$102,297",
+    "gap": "0%"
+  },
+  {
+    "Title.Description": "SCIENTIST",
+    "Average": "$63,898",
+    "Male": "$63,628",
+    "Female": "$64,492",
+    "gap": "-1%"
+  },
+  {
+    "Title.Description": "SECRETARY",
+    "Average": "$45,146",
+    "Male": "$43,282",
+    "Female": "$45,245",
+    "gap": "-2%"
+  },
+  {
+    "Title.Description": "SENIOR POLICE ADMINISTRATIVE AIDE",
+    "Average": "$51,633",
+    "Male": "$51,106",
+    "Female": "$51,664",
+    "gap": "-1%"
+  },
+  {
+    "Title.Description": "SERGEANT-",
+    "Average": "$103,632",
+    "Male": "$103,573",
+    "Female": "$103,926",
+    "gap": "0%"
+  },
+  {
+    "Title.Description": "SERGEANT-D/A SPECIAL ASSIGNMENT",
+    "Average": "$121,894",
+    "Male": "$122,086",
+    "Female": "$121,155",
+    "gap": "0%"
+  },
+  {
+    "Title.Description": "SERGEANT-D/A SUPERVISOR DETECTIVE SQUAD",
+    "Average": "$122,434",
+    "Male": "$122,333",
+    "Female": "$123,226",
+    "gap": "0%"
+  },
+  {
+    "Title.Description": "SOCIAL WORKER",
+    "Average": "$58,114",
+    "Male": "$57,825",
+    "Female": "$58,152",
+    "gap": "0%"
+  },
+  {
+    "Title.Description": "SPECIAL ASSISTANT",
+    "Average": "$103,850",
+    "Male": "$104,352",
+    "Female": "$103,570",
+    "gap": "0%"
+  },
+  {
+    "Title.Description": "SPECIAL CONSULTANT",
+    "Average": "$68,091",
+    "Male": "$70,904",
+    "Female": "$67,635",
+    "gap": "2%"
+  },
+  {
+    "Title.Description": "SPECIAL INVESTIGATOR",
+    "Average": "$75,163",
+    "Male": "$74,437",
+    "Female": "$76,370",
+    "gap": "-1%"
+  },
+  {
+    "Title.Description": "SPECIAL OFFICER",
+    "Average": "$39,444",
+    "Male": "$39,707",
+    "Female": "$39,118",
+    "gap": "1%"
+  },
+  {
+    "Title.Description": "STAFF ANALYST",
+    "Average": "$65,107",
+    "Male": "$63,747",
+    "Female": "$65,918",
+    "gap": "-2%"
+  },
+  {
+    "Title.Description": "STAFF NURSE",
+    "Average": "$71,401",
+    "Male": "$70,714",
+    "Female": "$71,447",
+    "gap": "-1%"
+  },
+  {
+    "Title.Description": "STOCK WORKER",
+    "Average": "$37,347",
+    "Male": "$37,735",
+    "Female": "$34,600",
+    "gap": "4%"
+  },
+  {
+    "Title.Description": "SUBSTANCE ABUSE PREVENTION & INTERVENTION SPECIALIST",
+    "Average": "$61,464",
+    "Male": "$61,042",
+    "Female": "$61,630",
+    "gap": "0%"
+  },
+  {
+    "Title.Description": "SUPERVISING EMERGENCY MEDICAL SERVICE SPECIALIST",
+    "Average": "$72,354",
+    "Male": "$72,331",
+    "Female": "$72,424",
+    "gap": "0%"
+  },
+  {
+    "Title.Description": "SUPERVISING HOUSING GROUNDSKEEPER",
+    "Average": "$59,072",
+    "Male": "$59,335",
+    "Female": "$56,587",
+    "gap": "2%"
+  },
+  {
+    "Title.Description": "SUPERVISING POLICE COMMUNICATIONS TECHNICIAN",
+    "Average": "$64,987",
+    "Male": "$64,691",
+    "Female": "$65,034",
+    "gap": "0%"
+  },
+  {
+    "Title.Description": "SUPERVISING PROBATION OFFICER",
+    "Average": "$76,998",
+    "Male": "$76,790",
+    "Female": "$77,116",
+    "gap": "0%"
+  },
+  {
+    "Title.Description": "SUPERVISING SPECIAL OFFICER",
+    "Average": "$55,125",
+    "Male": "$55,792",
+    "Female": "$53,935",
+    "gap": "2%"
+  },
+  {
+    "Title.Description": "SUPERVISOR",
+    "Average": "$93,863",
+    "Male": "$92,536",
+    "Female": "$108,436",
+    "gap": "-8%"
+  },
+  {
+    "Title.Description": "SUPERVISOR I",
+    "Average": "$57,441",
+    "Male": "$57,123",
+    "Female": "$57,578",
+    "gap": "0%"
+  },
+  {
+    "Title.Description": "SUPERVISOR II",
+    "Average": "$67,700",
+    "Male": "$67,320",
+    "Female": "$67,881",
+    "gap": "0%"
+  },
+  {
+    "Title.Description": "SUPERVISOR OF HOUSING CARETAKER",
+    "Average": "$60,778",
+    "Male": "$61,182",
+    "Female": "$59,831",
+    "gap": "1%"
+  },
+  {
+    "Title.Description": "SUPERVISOR OF MECHANICS",
+    "Average": "$124,099",
+    "Male": "$124,126",
+    "Female": "$119,955",
+    "gap": "2%"
+  },
+  {
+    "Title.Description": "SUPERVISOR OF SCHOOL SECURITY",
+    "Average": "$69,124",
+    "Male": "$68,707",
+    "Female": "$69,487",
+    "gap": "-1%"
+  },
+  {
+    "Title.Description": "SUPERVISOR OF STOCK WORKERS",
+    "Average": "$49,441",
+    "Male": "$49,416",
+    "Female": "$49,692",
+    "gap": "0%"
+  },
+  {
+    "Title.Description": "TAXI AND LIMOUSINE INSPECTOR",
+    "Average": "$41,184",
+    "Male": "$41,094",
+    "Female": "$41,699",
+    "gap": "-1%"
+  },
+  {
+    "Title.Description": "TEACHER",
+    "Average": "$92,770",
+    "Male": "$92,018",
+    "Female": "$93,057",
+    "gap": "-1%"
+  },
+  {
+    "Title.Description": "TEACHER-REG SUB",
+    "Average": "$66,155",
+    "Male": "$73,546",
+    "Female": "$61,470",
+    "gap": "9%"
+  },
+  {
+    "Title.Description": "TEACHER AIDE",
+    "Average": "$27,317",
+    "Male": "$27,306",
+    "Female": "$27,324",
+    "gap": "0%"
+  },
+  {
+    "Title.Description": "TEACHER ASSIGNED A",
+    "Average": "$101,302",
+    "Male": "$98,279",
+    "Female": "$101,683",
+    "gap": "-2%"
+  },
+  {
+    "Title.Description": "TEACHER ATTENDANCE",
+    "Average": "$97,671",
+    "Male": "$101,316",
+    "Female": "$95,215",
+    "gap": "3%"
+  },
+  {
+    "Title.Description": "TEACHER SPECIAL EDUCATION",
+    "Average": "$87,073",
+    "Male": "$86,363",
+    "Female": "$87,231",
+    "gap": "-1%"
+  },
+  {
+    "Title.Description": "TEACHER SPECIAL EDUCATION-REG SUB",
+    "Average": "$60,107",
+    "Male": "$59,691",
+    "Female": "$60,295",
+    "gap": "-1%"
+  },
+  {
+    "Title.Description": "TELECOMMUNICATIONS ASSOCIATE",
+    "Average": "$77,080",
+    "Male": "$77,208",
+    "Female": "$76,471",
+    "gap": "0%"
+  },
+  {
+    "Title.Description": "TRAFFIC DEVICE MAINTAINER",
+    "Average": "$58,436",
+    "Male": "$58,468",
+    "Female": "$56,339",
+    "gap": "2%"
+  },
+  {
+    "Title.Description": "TRAFFIC ENFORC AGENT-L 3 & 4 ONLY",
+    "Average": "$45,545",
+    "Male": "$45,502",
+    "Female": "$45,628",
+    "gap": "0%"
+  },
+  {
+    "Title.Description": "TRAFFIC ENFORCEMENT AGENT AL 1 & 2 ONLY",
+    "Average": "$40,140",
+    "Male": "$40,037",
+    "Female": "$40,274",
+    "gap": "0%"
+  },
+  {
+    "Title.Description": "URBAN PARK RANGER",
+    "Average": "$47,138",
+    "Male": "$47,138",
+    "Female": "$47,139",
+    "gap": "0%"
+  },
+  {
+    "Title.Description": "WATERSHED MAINTAINER",
+    "Average": "$53,824",
+    "Male": "$53,909",
+    "Female": "$51,591",
+    "gap": "2%"
+  },
+  {
+    "Title.Description": "YOUTH DEVELOPMENT SPECIALIST",
+    "Average": "$47,955",
+    "Male": "$46,908",
+    "Female": "$50,535",
+    "gap": "-4%"
+  }
+]

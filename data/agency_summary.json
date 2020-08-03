@@ -1,431 +1,429 @@
-{
-    "data": [
+[
   {
     "Agency": "ADMIN FOR CHILDREN'S SVCS",
     "Average": "$66,812",
-    "Female": "$67,228",
-    "Male": "$63,046",
-    "Gap": "1.61%"
+    "Male": "$65,666",
+    "Female": "$67,320",
+    "gap": "-1.2443%"
   },
   {
     "Agency": "ADMIN TRIALS AND HEARINGS",
     "Average": "$71,819",
-    "Female": "$71,918",
-    "Male": "$71,004",
-    "Gap": "0.320%"
+    "Male": "$79,718",
+    "Female": "$66,937",
+    "gap": "8.7153%"
   },
   {
     "Agency": "BOARD OF ELECTION",
     "Average": "$54,865",
-    "Female": "$54,744",
-    "Male": "$55,743",
-    "Gap": "-0.452%"
+    "Male": "$56,514",
+    "Female": "$52,987",
+    "gap": "3.2212%"
   },
   {
     "Agency": "BRONX DISTRICT ATTORNEY",
     "Average": "$70,413",
-    "Female": "$70,926",
-    "Male": "$65,084",
-    "Gap": "2.15%"
+    "Male": "$73,631",
+    "Female": "$68,195",
+    "gap": "3.8328%"
   },
   {
     "Agency": "CAMPAIGN FINANCE BOARD",
     "Average": "$86,166",
-    "Female": "$86,379",
-    "Male": "$85,063",
-    "Gap": "0.384%"
+    "Male": "$85,729",
+    "Female": "$86,720",
+    "gap": "-0.5747%"
   },
   {
     "Agency": "CITY COUNCIL",
     "Average": "$97,596",
-    "Female": "$98,309",
-    "Male": "$92,388",
-    "Gap": "1.55%"
+    "Male": "$100,224",
+    "Female": "$94,406",
+    "gap": "2.9891%"
   },
   {
     "Agency": "CIVILIAN COMPLAINT REVIEW BD",
     "Average": "$75,439",
-    "Female": "$75,912",
-    "Male": "$72,087",
-    "Gap": "1.29%"
+    "Male": "$74,556",
+    "Female": "$76,387",
+    "gap": "-1.2129%"
   },
   {
     "Agency": "COMMUNITY COLLEGE (BRONX)",
     "Average": "$72,561",
-    "Female": "$72,411",
-    "Male": "$73,281",
-    "Gap": "-0.299%"
+    "Male": "$72,826",
+    "Female": "$72,308",
+    "gap": "0.3571%"
   },
   {
     "Agency": "COMMUNITY COLLEGE (HOSTOS)",
     "Average": "$71,254",
-    "Female": "$71,702",
-    "Male": "$68,947",
-    "Gap": "0.980%"
+    "Male": "$72,355",
+    "Female": "$70,417",
+    "gap": "1.3575%"
   },
   {
     "Agency": "COMMUNITY COLLEGE (KINGSBORO)",
     "Average": "$75,520",
-    "Female": "$75,820",
-    "Male": "$72,955",
-    "Gap": "0.963%"
+    "Male": "$76,117",
+    "Female": "$75,089",
+    "gap": "0.6798%"
   },
   {
     "Agency": "COMMUNITY COLLEGE (LAGUARDIA)",
     "Average": "$77,245",
-    "Female": "$77,873",
-    "Male": "$73,319",
-    "Gap": "1.51%"
+    "Male": "$78,419",
+    "Female": "$76,410",
+    "gap": "1.2975%"
   },
   {
     "Agency": "COMMUNITY COLLEGE (MANHATTAN)",
     "Average": "$73,284",
-    "Female": "$73,491",
-    "Male": "$72,187",
-    "Gap": "0.447%"
+    "Male": "$74,557",
+    "Female": "$72,173",
+    "gap": "1.6245%"
   },
   {
     "Agency": "COMMUNITY COLLEGE (QUEENSBORO)",
     "Average": "$76,617",
-    "Female": "$77,192",
-    "Male": "$72,730",
-    "Gap": "1.49%"
+    "Male": "$77,213",
+    "Female": "$76,130",
+    "gap": "0.7063%"
   },
   {
     "Agency": "CONSUMER AFFAIRS",
     "Average": "$66,803",
-    "Female": "$66,554",
-    "Male": "$68,427",
-    "Gap": "-0.694%"
+    "Male": "$67,495",
+    "Female": "$66,289",
+    "gap": "0.9012%"
   },
   {
     "Agency": "DEPARTMENT FOR THE AGING",
     "Average": "$78,446",
-    "Female": "$78,189",
-    "Male": "$80,799",
-    "Gap": "-0.821%"
+    "Male": "$81,495",
+    "Female": "$77,453",
+    "gap": "2.5427%"
   },
   {
     "Agency": "DEPARTMENT OF BUILDINGS",
     "Average": "$75,428",
-    "Female": "$74,579",
-    "Male": "$78,554",
-    "Gap": "-1.30%"
+    "Male": "$79,189",
+    "Female": "$68,364",
+    "gap": "7.3366%"
   },
   {
     "Agency": "DEPARTMENT OF BUSINESS SERV.",
     "Average": "$80,862",
-    "Female": "$81,437",
-    "Male": "$77,333",
-    "Gap": "1.29%"
+    "Male": "$80,515",
+    "Female": "$81,143",
+    "gap": "-0.3884%"
   },
   {
     "Agency": "DEPARTMENT OF CITY PLANNING",
     "Average": "$84,998",
-    "Female": "$84,118",
-    "Male": "$90,692",
-    "Gap": "-1.88%"
+    "Male": "$85,412",
+    "Female": "$84,491",
+    "gap": "0.5421%"
   },
   {
     "Agency": "DEPARTMENT OF CORRECTION",
     "Average": "$71,220",
-    "Female": "$71,961",
-    "Male": "$67,932",
-    "Gap": "1.44%"
+    "Male": "$69,456",
+    "Female": "$73,676",
+    "gap": "-2.9483%"
   },
   {
     "Agency": "DEPARTMENT OF EDUCATION ADMIN",
     "Average": "$71,256",
-    "Female": "$70,987",
-    "Male": "$73,746",
-    "Gap": "-0.953%"
+    "Male": "$76,365",
+    "Female": "$69,073",
+    "gap": "5.0137%"
   },
   {
     "Agency": "DEPARTMENT OF FINANCE",
     "Average": "$75,563",
-    "Female": "$75,588",
-    "Male": "$75,411",
-    "Gap": "0.0586%"
+    "Male": "$81,347",
+    "Female": "$70,085",
+    "gap": "7.4367%"
   },
   {
     "Agency": "DEPARTMENT OF INVESTIGATION",
     "Average": "$83,046",
-    "Female": "$83,715",
-    "Male": "$79,438",
-    "Gap": "1.31%"
+    "Male": "$86,163",
+    "Female": "$79,994",
+    "gap": "3.7130%"
   },
   {
     "Agency": "DEPARTMENT OF PROBATION",
     "Average": "$62,575",
-    "Female": "$62,753",
-    "Male": "$60,875",
-    "Gap": "0.760%"
+    "Male": "$63,638",
+    "Female": "$62,013",
+    "gap": "1.2934%"
   },
   {
     "Agency": "DEPARTMENT OF SANITATION",
     "Average": "$73,487",
-    "Female": "$73,425",
-    "Male": "$73,791",
-    "Gap": "-0.124%"
+    "Male": "$74,439",
+    "Female": "$64,766",
+    "gap": "6.9484%"
   },
   {
     "Agency": "DEPARTMENT OF TRANSPORTATION",
     "Average": "$71,066",
-    "Female": "$71,338",
-    "Male": "$70,015",
-    "Gap": "0.468%"
+    "Male": "$71,321",
+    "Female": "$70,526",
+    "gap": "0.5605%"
   },
   {
     "Agency": "DEPT OF CITYWIDE ADMIN SVCS",
     "Average": "$64,900",
-    "Female": "$65,891",
-    "Male": "$59,958",
-    "Gap": "2.36%"
+    "Male": "$63,380",
+    "Female": "$66,681",
+    "gap": "-2.5379%"
   },
   {
     "Agency": "DEPT OF ED PARA PROFESSIONALS",
     "Average": "$37,513",
-    "Female": "$37,544",
-    "Male": "$37,045",
-    "Gap": "0.335%"
+    "Male": "$36,648",
+    "Female": "$37,715",
+    "gap": "-1.4356%"
   },
   {
     "Agency": "DEPT OF ED PEDAGOGICAL",
     "Average": "$93,915",
-    "Female": "$93,782",
-    "Male": "$96,215",
-    "Gap": "-0.640%"
+    "Male": "$95,665",
+    "Female": "$93,353",
+    "gap": "1.2236%"
   },
   {
     "Agency": "DEPT OF ENVIRONMENT PROTECTION",
     "Average": "$77,460",
-    "Female": "$77,667",
-    "Male": "$76,506",
-    "Gap": "0.377%"
+    "Male": "$79,126",
+    "Female": "$73,896",
+    "gap": "3.4183%"
   },
   {
     "Agency": "DEPT OF HEALTH/MENTAL HYGIENE",
     "Average": "$74,253",
-    "Female": "$74,477",
-    "Male": "$72,359",
-    "Gap": "0.721%"
+    "Male": "$73,749",
+    "Female": "$74,508",
+    "gap": "-0.5120%"
   },
   {
     "Agency": "DEPT OF INFO TECH & TELECOMM",
     "Average": "$86,802",
-    "Female": "$84,208",
-    "Male": "$99,249",
-    "Gap": "-4.10%"
+    "Male": "$98,864",
+    "Female": "$70,305",
+    "gap": "16.8822%"
   },
   {
     "Agency": "DEPT OF PARKS & RECREATION",
     "Average": "$65,842",
-    "Female": "$66,320",
-    "Male": "$63,516",
-    "Gap": "1.08%"
+    "Male": "$65,264",
+    "Female": "$66,831",
+    "gap": "-1.1860%"
   },
   {
     "Agency": "DEPT OF YOUTH & COMM DEV SRVS",
     "Average": "$83,986",
-    "Female": "$84,188",
-    "Male": "$82,727",
-    "Gap": "0.438%"
+    "Male": "$86,307",
+    "Female": "$82,533",
+    "gap": "2.2348%"
   },
   {
     "Agency": "DEPT. OF DESIGN & CONSTRUCTION",
     "Average": "$85,704",
-    "Female": "$85,977",
-    "Male": "$84,851",
-    "Gap": "0.329%"
+    "Male": "$88,680",
+    "Female": "$80,797",
+    "gap": "4.6517%"
   },
   {
     "Agency": "DEPT. OF HOMELESS SERVICES",
     "Average": "$55,229",
-    "Female": "$55,902",
-    "Male": "$52,114",
-    "Gap": "1.75%"
+    "Male": "$52,912",
+    "Female": "$57,568",
+    "gap": "-4.2145%"
   },
   {
     "Agency": "DISTRICT ATTORNEY-MANHATTAN",
     "Average": "$77,954",
-    "Female": "$78,383",
-    "Male": "$74,041",
-    "Gap": "1.42%"
+    "Male": "$79,534",
+    "Female": "$76,771",
+    "gap": "1.7678%"
   },
   {
     "Agency": "DISTRICT ATTORNEY-SPECIAL NARC",
     "Average": "$93,569",
-    "Female": "$92,611",
-    "Male": "$108,828",
-    "Gap": "-4.03%"
+    "Male": "$100,304",
+    "Female": "$87,936",
+    "gap": "6.5707%"
   },
   {
     "Agency": "DISTRICT ATTORNEY KINGS COUNTY",
     "Average": "$74,590",
-    "Female": "$74,755",
-    "Male": "$73,171",
-    "Gap": "0.536%"
+    "Male": "$78,626",
+    "Female": "$71,603",
+    "gap": "4.6745%"
   },
   {
     "Agency": "DISTRICT ATTORNEY QNS COUNTY",
     "Average": "$80,851",
-    "Female": "$80,932",
-    "Male": "$79,810",
-    "Gap": "0.349%"
+    "Male": "$86,833",
+    "Female": "$76,745",
+    "gap": "6.1676%"
   },
   {
     "Agency": "DISTRICT ATTORNEY RICHMOND COU",
     "Average": "$78,702",
-    "Female": "$78,874",
-    "Male": "$73,175",
-    "Gap": "1.87%"
+    "Male": "$87,730",
+    "Female": "$72,798",
+    "gap": "9.3021%"
   },
   {
     "Agency": "FINANCIAL INFO SVCS AGENCY",
     "Average": "$111,227",
-    "Female": "$110,130",
-    "Male": "$116,056",
-    "Gap": "-1.31%"
+    "Male": "$113,002",
+    "Female": "$107,601",
+    "gap": "2.4484%"
   },
   {
     "Agency": "FIRE DEPARTMENT",
     "Average": "$76,193",
-    "Female": "$77,294",
-    "Male": "$69,214",
-    "Gap": "2.76%"
+    "Male": "$78,152",
+    "Female": "$60,091",
+    "gap": "13.0649%"
   },
   {
     "Agency": "GUTTMAN COMMUNITY COLLEGE",
     "Average": "$86,456",
-    "Female": "$86,595",
-    "Male": "$85,436",
-    "Gap": "0.337%"
+    "Male": "$87,107",
+    "Female": "$85,989",
+    "gap": "0.6461%"
   },
   {
     "Agency": "HOUSING PRESERVATION & DVLPMNT",
     "Average": "$71,907",
-    "Female": "$71,753",
-    "Male": "$72,676",
-    "Gap": "-0.320%"
+    "Male": "$74,073",
+    "Female": "$69,718",
+    "gap": "3.0290%"
   },
   {
     "Agency": "HRA/DEPT OF SOCIAL SERVICES",
     "Average": "$58,109",
-    "Female": "$57,882",
-    "Male": "$60,141",
-    "Gap": "-0.957%"
+    "Male": "$63,174",
+    "Female": "$56,032",
+    "gap": "5.9909%"
   },
   {
     "Agency": "HUMAN RIGHTS COMMISSION",
     "Average": "$74,733",
-    "Female": "$74,007",
-    "Male": "$78,655",
-    "Gap": "-1.52%"
+    "Male": "$73,683",
+    "Female": "$75,769",
+    "gap": "-1.3960%"
   },
   {
     "Agency": "HUNTER COLLEGE HIGH SCHOOL",
     "Average": "$75,398",
-    "Female": "$75,849",
-    "Male": "$69,536",
-    "Gap": "2.17%"
+    "Male": "$79,284",
+    "Female": "$73,406",
+    "gap": "3.8499%"
   },
   {
     "Agency": "LAW DEPARTMENT",
     "Average": "$85,452",
-    "Female": "$85,847",
-    "Male": "$81,308",
-    "Gap": "1.36%"
+    "Male": "$89,644",
+    "Female": "$82,630",
+    "gap": "4.0713%"
   },
   {
     "Agency": "MAYORS OFFICE OF CONTRACT SVCS",
     "Average": "$88,216",
-    "Female": "$86,698",
-    "Male": "$96,960",
-    "Gap": "-2.79%"
+    "Male": "$95,784",
+    "Female": "$81,967",
+    "gap": "7.7732%"
   },
   {
     "Agency": "NYC EMPLOYEES RETIREMENT SYS",
     "Average": "$74,293",
-    "Female": "$74,663",
-    "Male": "$71,758",
-    "Gap": "0.992%"
+    "Male": "$82,101",
+    "Female": "$68,569",
+    "gap": "8.9809%"
   },
   {
     "Agency": "NYC HOUSING AUTHORITY",
     "Average": "$55,538",
-    "Female": "$55,421",
-    "Male": "$56,145",
-    "Gap": "-0.325%"
+    "Male": "$56,806",
+    "Female": "$54,244",
+    "gap": "2.3074%"
   },
   {
     "Agency": "NYC POLICE PENSION FUND",
     "Average": "$80,534",
-    "Female": "$81,006",
-    "Male": "$77,413",
-    "Gap": "1.13%"
+    "Male": "$94,055",
+    "Female": "$68,145",
+    "gap": "15.9743%"
   },
   {
     "Agency": "OFF OF PAYROLL ADMINISTRATION",
     "Average": "$90,798",
-    "Female": "$89,423",
-    "Male": "$96,603",
-    "Gap": "-1.93%"
+    "Male": "$95,763",
+    "Female": "$86,860",
+    "gap": "4.8753%"
   },
   {
     "Agency": "OFFICE OF EMERGENCY MANAGEMENT",
     "Average": "$89,167",
-    "Female": "$89,245",
-    "Male": "$88,727",
-    "Gap": "0.145%"
+    "Male": "$91,600",
+    "Female": "$86,277",
+    "gap": "2.9923%"
   },
   {
     "Agency": "OFFICE OF LABOR RELATIONS",
     "Average": "$84,841",
-    "Female": "$85,413",
-    "Male": "$80,495",
-    "Gap": "1.48%"
+    "Male": "$95,978",
+    "Female": "$79,170",
+    "gap": "9.5962%"
   },
   {
     "Agency": "OFFICE OF MANAGEMENT & BUDGET",
     "Average": "$91,219",
-    "Female": "$90,838",
-    "Male": "$93,740",
-    "Gap": "-0.786%"
+    "Male": "$93,900",
+    "Female": "$87,990",
+    "gap": "3.2495%"
   },
   {
     "Agency": "OFFICE OF THE COMPTROLLER",
     "Average": "$88,932",
-    "Female": "$89,252",
-    "Male": "$86,862",
-    "Gap": "0.678%"
+    "Male": "$94,426",
+    "Female": "$84,192",
+    "gap": "5.7293%"
   },
   {
     "Agency": "OFFICE OF THE MAYOR",
     "Average": "$105,532",
-    "Female": "$105,844",
-    "Male": "$102,960",
-    "Gap": "0.691%"
+    "Male": "$107,799",
+    "Female": "$104,163",
+    "gap": "1.7155%"
   },
   {
     "Agency": "POLICE DEPARTMENT",
     "Average": "$75,579",
-    "Female": "$75,644",
-    "Male": "$75,240",
-    "Gap": "0.134%"
+    "Male": "$81,813",
+    "Female": "$62,074",
+    "gap": "13.7182%"
   },
   {
     "Agency": "TAXI & LIMOUSINE COMMISSION",
     "Average": "$58,305",
-    "Female": "$59,951",
-    "Male": "$52,023",
-    "Gap": "3.54%"
+    "Male": "$56,308",
+    "Female": "$61,725",
+    "gap": "-4.5898%"
   },
   {
     "Agency": "TEACHERS RETIREMENT SYSTEM",
     "Average": "$87,242",
-    "Female": "$87,884",
-    "Male": "$82,302",
-    "Gap": "1.64%"
+    "Male": "$95,748",
+    "Female": "$80,842",
+    "gap": "8.4413%"
   }
 ]
-}
