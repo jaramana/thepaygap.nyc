@@ -8,63 +8,122 @@ library(scales)
 library(jsonlite)
 
 
-
-
-
-setwd("C:/Users/jaramana/Documents/Library/The Pay Gap/")
+setwd("C:/Users/jaramana/Desktop/thepaygap.nyc analysis")
 
 
 Citywide_Payroll = read.csv("Citywide_Payroll_Data.csv", header = TRUE)
-
-Citywide_Payroll_2018_filtered <- filter(Citywide_Payroll, Fiscal.Year == 2018 & Pay.Basis == 'per Annum',	)
-
-setnames(Citywide_Payroll_2018_filtered, old=c("Agency.Name"), new=c("AGENCY"))
-
-
-
-
+Citywide_Payroll_filtered <- filter(Citywide_Payroll, Fiscal.Year == 2019 & Pay.Basis == 'per Annum',	)
+setnames(Citywide_Payroll_filtered, old=c("Agency.Name"), new=c("Agency"))
 
 Baby_Names = read.csv("NY.txt", header = FALSE)
-
 setnames(Baby_Names, old=c("V1","V2","V3","V4","V5"), new=c("State","Sex","Year","Name","Count"))
-
 Baby_Names[,"Name"] = toupper(Baby_Names[,"Name"])
 
+# Set up data frame for by-group processing.  
+Baby_Names_pivot = group_by(Baby_Names, Name, Sex)
+
+# Calculate the summary metrics
+Baby_Names_pivot = summarise(Baby_Names_pivot,
+                                  Count = sum(Count))
+
+Baby_Names_Spread = spread(Baby_Names_pivot, "Sex", "Count")
+Baby_Names_Spread[is.na(Baby_Names_Spread)] <- 0
+Baby_Names_Spread$M_weight <- Baby_Names_Spread$M/(Baby_Names_Spread$M + Baby_Names_Spread$F) 
+Baby_Names_Spread$F_weight <- Baby_Names_Spread$F/(Baby_Names_Spread$M + Baby_Names_Spread$F) 
+
+write.csv(Baby_Names_Spread, "baby_names_NY.csv", row.names=FALSE)
 
 
 
 
 
-Citywide_Payroll_2018_filtered$Base.Salary <- (Citywide_Payroll_2018_filtered$Base.Salary)
+Citywide_Payroll_filtered$Male <- Baby_Names_Spread$M_weight[match(Citywide_Payroll_filtered$First.Name, Baby_Names_Spread$Name, nomatch = NA_integer_, incomparables = NULL)]
+Citywide_Payroll_filtered$Female <- Baby_Names_Spread$F_weight[match(Citywide_Payroll_filtered$First.Name, Baby_Names_Spread$Name)]
+
+Citywide_Payroll_filtered <- filter(Citywide_Payroll_filtered, !is.na(Male))
+Citywide_Payroll_filtered <- filter(Citywide_Payroll_filtered, !is.na(Female))
+
+
+
+citywide_average <- mean(Citywide_Payroll_filtered$Base.Salary)
+citywide_average_m <- weighted.mean(Citywide_Payroll_filtered$Base.Salary, Citywide_Payroll_filtered$Male)
+citywide_average_f <- weighted.mean(Citywide_Payroll_filtered$Base.Salary, Citywide_Payroll_filtered$Female)
+
+basic_summ = group_by(Citywide_Payroll_filtered, Agency)
+
+agency_summary = summarise(basic_summ,
+                           Average = 
+                             (mean(Base.Salary)),
+                           Male = 
+                             (weighted.mean(Base.Salary, Male)),
+                           Female = 
+                             (weighted.mean(Base.Salary, Female))
+)
+
+agency_summary$Gap <- (((agency_summary$Male) - (agency_summary$Female)) / ((agency_summary$Male) + agency_summary$Female))
+
+write.csv(agency_summary, "agency_summary.csv", row.names=FALSE)
+
+Citywide_Payroll_filtered_agency <- setDT(Citywide_Payroll_filtered)[,if(.N >100) .SD,by=Agency]
+basic_summ = group_by(Citywide_Payroll_filtered_agency, Agency)
+
+agency_summary = summarise(basic_summ,
+                       Average = 
+                         (mean(Base.Salary)),
+                       Male = 
+                         (weighted.mean(Base.Salary, Male)),
+                       Female = 
+                         (weighted.mean(Base.Salary, Female))
+                       )
+
+agency_summary$Gap <- percent((((agency_summary$Male) - (agency_summary$Female)) / ((agency_summary$Male) + agency_summary$Female)), .1)
+
+agency_summary$Average <- dollar(agency_summary$Average)
+agency_summary$Male <- dollar(agency_summary$Male)
+agency_summary$Female <- dollar(agency_summary$Female)
+
+write_json(agency_summary, "agency_summary.json", pretty = TRUE)
 
 
 
 
 
-Citywide_Payroll_2018_filtered$Gender <- Baby_Names$Sex[match(Citywide_Payroll_2018_filtered$First.Name, Baby_Names$Name)]
-
-
-
-Citywide_Payroll_2018_filtered <- filter(Citywide_Payroll_2018_filtered, !is.na(Gender))
-
-
-
-Citywide_Payroll_2018_filtered <- setDT(Citywide_Payroll_2018_filtered)[,if(.N >100) .SD,by=AGENCY]
 
 
 
 
-basic_summ = group_by(Citywide_Payroll_2018_filtered, AGENCY)
+names(Citywide_Payroll_filtered)[9]<- 'Title'
+basic_summ = group_by(Citywide_Payroll_filtered, Title)
 
+title_summary = summarise(basic_summ,
+                           Average = 
+                             (mean(Base.Salary)),
+                           Male = 
+                             (weighted.mean(Base.Salary, Male)),
+                           Female = 
+                             (weighted.mean(Base.Salary, Female))
+)
 
-basic_summ = summarise(basic_summ,
-                       FEMALE = 
-                         paste('$',formatC(sprintf(mean(Base.Salary[Gender=="F"]),fmt = '%#.2f'), big.mark=',', format = 'f')),
-                       MALE = 
-                         paste('$',formatC(sprintf(mean(Base.Salary[Gender=="M"]),fmt = '%#.2f'), big.mark=',', format = 'f')),
-                       GAP = 
-                         percent(((mean(Base.Salary[Gender=="F"]) - mean(Base.Salary[Gender=="M"])) / ((mean(Base.Salary[Gender=="F"]) + mean(Base.Salary[Gender=="M"])))/2)))
+title_summary$Gap <- (((title_summary$Male) - (title_summary$Female)) / ((title_summary$Male) + title_summary$Female))
 
+write.csv(title_summary, "title_summary.csv", row.names=FALSE)
 
+Citywide_Payroll_filtered_title <- setDT(Citywide_Payroll_filtered)[,if(.N >100) .SD,by=Title]
+basic_summ = group_by(Citywide_Payroll_filtered_title, Title)
 
-write_json(basic_summ, "basic_summ.json", pretty = TRUE)
+title_summary = summarise(basic_summ,
+                           Average = 
+                             (mean(Base.Salary)),
+                           Male = 
+                             (weighted.mean(Base.Salary, Male)),
+                           Female = 
+                             (weighted.mean(Base.Salary, Female))
+)
+
+title_summary$Gap <- percent((((title_summary$Male) - (title_summary$Female)) / ((title_summary$Male) + title_summary$Female)), .1)
+
+title_summary$Average <- dollar(title_summary$Average)
+title_summary$Male <- dollar(title_summary$Male)
+title_summary$Female <- dollar(title_summary$Female)
+
+write_json(title_summary, "title_summary.json", pretty = TRUE)
