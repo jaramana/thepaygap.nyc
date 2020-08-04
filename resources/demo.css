@@ -1,10 +1,16 @@
 body {
-	font: 90%/1.45em "Helvetica Neue", HelveticaNeue, Arial, Helvetica, sans-serif;
-	margin: 0;
-	padding: 0;
-	color: #333;
-	background-color: #fff;
+  background: #eee;
+  min-height: 100vh;
+	box-sizing: border-box;
+	padding-top: 0vh;
+  font: 90%/1.45em "Helvetica Neue", HelveticaNeue, Arial, Helvetica, sans-serif;
+  font-weight: 300;
+  line-height: 1.2;
+  max-width: 60rem;
+  margin: 0 auto;
+  font-size: 100%;
 }
+
 
 body.dt-example-bootstrap {
 	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;

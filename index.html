@@ -1,81 +1,161 @@
 <!DOCTYPE html>
 <html>
-<head>
-	<meta charset="utf-8">
-	<link rel="shortcut icon" type="image/ico" href="assets/favicon.ico">
-	<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, user-scalable=no">
-	<title>thepaygap.nyc</title>
-	<link rel="stylesheet" type="text/css" href="css/jquery.dataTables.css">
-	<link rel="stylesheet" type="text/css" href="resources/syntax/shCore.css">
-	<link rel="stylesheet" type="text/css" href="resources/demo.css">
-	<style type="text/css" class="init">
+   <head>
+      <meta charset="utf-8">
+      <link rel="shortcut icon" type="image/ico" href="assets/favicon.ico">
+      <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, user-scalable=no">
+      <title>thepaygap.nyc</title>
+      <link rel="stylesheet" type="text/css" href="css/jquery.dataTables.css">
+      <link rel="stylesheet" type="text/css" href="resources/syntax/shCore.css">
+      <link rel="stylesheet" type="text/css" href="resources/demo.css">
+      <link rel="stylesheet" type="text/css" href="css/style.css">
+      <style type="text/css" class="init">
+      </style>
+      <script type="text/javascript" language="javascript" src="https://code.jquery.com/jquery-3.3.1.js"></script>
+      <script type="text/javascript" language="javascript" src="js/jquery.dataTables.js"></script>
+      <script type="text/javascript" language="javascript" src="resources/syntax/shCore.js"></script>
+      <script type="text/javascript" language="javascript" src="resources/demo.js"></script>
 
-	</style>
-	<script type="text/javascript" language="javascript" src="https://code.jquery.com/jquery-3.3.1.js"></script>
-	<script type="text/javascript" language="javascript" src="js/jquery.dataTables.js"></script>
-	<script type="text/javascript" language="javascript" src="resources/syntax/shCore.js"></script>
-	<script type="text/javascript" language="javascript" src="resources/demo.js"></script>
+      <script type="text/javascript" language="javascript" class="init">
+		$(document).ready(function() {
+			$('#agency').DataTable( {
+				"paging": false,
+				"ajax": "https://raw.githubusercontent.com/jaramana/thepaygap.nyc/master/data/agency_summary.json",
+				"columnDefs": [{"className": "dt-center", "targets": "_all"}, 
+				      { "width": "50%", "targets": 0 },
+					  { "width": "12.5%", "targets": 1 },
+					  { "width": "12.5%", "targets": 2 },
+					  { "width": "12.5%", "targets": 3 },
+					  { "width": "12.5%", "targets": 4 }],
+				"fixedColumns": true,
+				"searching": false,
+				"autoWidth": false,
+				"columns": [
+					{ "data": "Agency" },
+					{ "data": "Average" },
+					{ "data": "Male" },
+					{ "data": "Female" },
+					{ "data": "Gap" }
+				]
+			} );
+		} );
+      </script>
 
+      <script type="text/javascript" language="javascript" class="init">
+		$(document).ready(function() {
+			$('#title').DataTable( {
+				"paging": false,
+				"ajax": "https://raw.githubusercontent.com/jaramana/thepaygap.nyc/master/data/title_summary.json",
+				"columnDefs": [{"className": "dt-center", "targets": "_all"}, 
+				      { "width": "50%", "targets": 0 },
+					  { "width": "12.5%", "targets": 1 },
+					  { "width": "12.5%", "targets": 2 },
+					  { "width": "12.5%", "targets": 3 },
+					  { "width": "12.5%", "targets": 4 }],				"fixedColumns": true,
+				"searching": false,
+				"autoWidth": false,
+				"columns": [
+					{ "data": "Title" },
+					{ "data": "Average" },
+					{ "data": "Male" },
+					{ "data": "Female" },
+					{ "data": "Gap" }
+				]
+			} );
+		} );
+      </script>
 
-	<script type="text/javascript" language="javascript" class="init">
-	
-$(document).ready(function() {
-    $('#example').DataTable( {
-		"paging": false,
-		"ajax": "https://raw.githubusercontent.com/jaramana/thepaygap.nyc/master/data/agency_summary.json",
-		"columnDefs": [{"className": "dt-center", "targets": "_all"}],
-		"columns": [
-            { "data": "Agency" },
-            { "data": "Average" },
-            { "data": "Male" },
-            { "data": "Female" },
-            { "data": "Gap" }
-        ]
-    } );
-} );
+	  
+      </script>  
 
+	  
 
-	</script>
-</head>
-
-<body class="dt-example">
-	<div class="container">
-		<section>
-			<h2 align="center">thepaygap.nyc</h2>
-			<p style="text-align: justify"> The following table displays the average salaries of civil servants for the City of New York, seperated by Male and Female. The gender of the civil servants are assigned based on the names database from the Social Security Administration.</p>
-
-			<div class="demo-html"></div>
-<table id="example" class="display" style="width:100%">
-        <thead>
-            <tr>
-                <th>Agency</th>
-                <th>Average</th>
-                <th>Male</th>
-                <th>Female</th>
-                <th>Gap</th>
-            </tr>
-        </thead>
-        <tfoot>
-            <tr>
-                <th>Agency</th>
-                <th>Average</th>
-                <th>Male</th>
-                <th>Female</th>
-                <th>Gap</th>
-            </tr>
-        </tfoot>
-    </table>
-		</section>
-	<br>
-	<p align = "center">
-	<a href="https://github.com/jaramana/thepaygap.nyc" target="_blank">github.com/jaramana/thepaygap.nyc</a>
-	<br>Produced by <a href="https://ahmadshaibani.com" target="_blank">Ahmad Shaibani</a>, 2020
-	</p>
-	</div>
-	
-
-
-
-	
-</body>
+  
+   </head>
+   <h2 align="center">thepaygap.nyc</h2>
+   <div class="tabs">
+      <input type="radio" name="tabs" id="tabone" checked="checked">
+      <label for="tabone">Agency</label>
+      <div class="tab">
+         <body class="dt-example">
+            <div class="container">
+               <section>
+                  <p style="text-align: justify"> The following table displays the average salaries of civil servants for the City of New York, seperated by Male and Female. The gender of the civil servants are assigned based on the names database from the Social Security Administration.</p>
+                  <div class="demo-html"></div>
+                  <table id="agency" class="display" style="width:100%">
+                     <thead>
+                        <tr>
+                           <th>Agency</th>
+                           <th>Average</th>
+                           <th>Male</th>
+                           <th>Female</th>
+                           <th>Gap</th>
+                        </tr>
+                     </thead>
+                     <tfoot>
+                        <tr>
+                           <th>Agency</th>
+                           <th>Average</th>
+                           <th>Male</th>
+                           <th>Female</th>
+                           <th>Gap</th>
+                        </tr>
+                     </tfoot>
+                  </table>
+               </section>
+               <br>
+            </div>
+         </body>
+      </div>
+      <input type="radio" name="tabs" id="tabtwo">
+      <label for="tabtwo">Civil Service</label>
+      <div class="tab">
+         <body class="dt-example">
+            <div class="container">
+               <section>
+                  <p style="text-align: justify"> The following table displays the average salaries of civil servants for the City of New York, seperated by Male and Female. The gender of the civil servants are assigned based on the names database from the Social Security Administration.</p>
+                  <div class="demo-html"></div>
+                  <table id="title" class="display" style="width:100%">
+                     <thead>
+                        <tr>
+                           <th>Civil Service Title</th>
+                           <th>Average</th>
+                           <th>Male</th>
+                           <th>Female</th>
+                           <th>Gap</th>
+                        </tr>
+                     </thead>
+                     <tfoot>
+                        <tr>
+                           <th>Civil Service Title</th>
+                           <th>Average</th>
+                           <th>Male</th>
+                           <th>Female</th>
+                           <th>Gap</th>
+                        </tr>
+                     </tfoot>
+                  </table>
+               </section>
+               <br>
+            </div>
+         </body>
+      </div>
+      <input type="radio" name="tabs" id="tabthree">
+      <label for="tabthree">About</label>
+      <div class="tab">
+         <body class="dt-example">
+            <div class="container">
+               <section>
+                  <p style="text-align: justify"> The following table displays the average salaries of civil servants for the City of New York, seperated by Male and Female. The gender of the civil servants are assigned based on the names database from the Social Security Administration.</p>
+               </section>
+               <br>
+            </div>
+         </body>
+      </div>
+   </div>
+   <p align = "center">
+      <a href="https://github.com/jaramana/thepaygap.nyc" target="_blank">github.com/jaramana/thepaygap.nyc</a>
+      <br>Produced by <a href="https://ahmadshaibani.com" target="_blank">Ahmad Shaibani</a>, 2020
+   </p>
 </html>
+
