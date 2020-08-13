@@ -426,6 +426,13 @@
     "Male": "$95,748",
     "Female": "$80,842",
     "Gap": "8.4%"
+  },
+  {
+    "Agency": "CITY OF NEW YORK",
+    "Average": "$76,608",
+    "Male": "$78,562",
+    "Female": "$75,089",
+    "Gap": "2.3%"
   }
 ]
 }
