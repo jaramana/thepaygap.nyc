@@ -13,9 +13,11 @@ https://thepaygap.nyc
 ## License
 covid-tracker-nyc is released under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 
+## Script
+
 ```
-##GenderGap_Agency_2019.R
-##by Ahmad Shaibani, 2020
+##thepaygap.nyc
+##2022
 
 ##Load Libraries
 library(reshape2)
