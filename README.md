@@ -11,7 +11,7 @@ You can find more detailed methodology, including the 'R' script used to run thi
 https://thepaygap.nyc
 
 ## License
-covid-tracker-nyc is released under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+thepaygap.nyc is released under the [BSD license](http://opensource.org/licenses/BSD-3-Clause).
 
 ## Script
 
